@@ -34,8 +34,13 @@ I build efficient data solutions, engineer analytical pipelines, and transform c
 ---
 
 ###  Connect With Me
-* **LinkedIn:** [https://ke.linkedin.com/in/alex-kamiru-4363402a8] 
-* **Email:**[mbuguaalexkamiru@gmail.com]
+* **LinkedIn:** [Alex Kamiru](https://linkedin.com)
+* **Email:**[mbuguaalexkamiru@gmail.com](mailto:mbuguaalexkamiru@gmail.com)
+### Tech Stack & Tooling
+
+![Python](https://shields.io) ![SQL](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) ![Scikit-Learn](https://shields.io)
+
+![Git](https://shields.io) ![Docker](https://shields.io) ![Power Bi](https://shields.io)
 
 
 "Without data, you're just another person with an opinion." — W. Edwards Deming
