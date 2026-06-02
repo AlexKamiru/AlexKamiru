@@ -34,8 +34,8 @@ I build efficient data solutions, engineer analytical pipelines, and transform c
 ---
 
 ###  Connect With Me
-* **LinkedIn:** [://linkedin.com]([https://ke.://linkedin.com-4363402a8](https://ke.linkedin.com/in/alex-kamiru-4363402a8)) <!-- Update link if needed -->
-* **Email:** [your.email@example.com](mbuguaalexkamiru@gmail.com)
+* **LinkedIn:** [https://ke.linkedin.com/in/alex-kamiru-4363402a8] 
+* **Email:**[mbuguaalexkamiru@gmail.com]
 
 
 "Without data, you're just another person with an opinion." — W. Edwards Deming
